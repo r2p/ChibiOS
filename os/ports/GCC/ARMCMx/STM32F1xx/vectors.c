@@ -53,7 +53,6 @@
     !defined(STM32F10X_MD) && !defined(STM32F10X_MD_VL) &&                  \
     !defined(STM32F10X_HD) && !defined(STM32F10X_XL) &&                     \
     !defined(STM32F10X_CL)
-#include "../../../../../../../workspace/ETH_module/board.h-old"
 #endif
 
 #if defined(STM32F10X_MD_VL) ||  defined(__DOXYGEN__)
